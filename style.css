@@ -230,6 +230,9 @@ textarea {
        left: -400px;
        padding: 20px;
        top: 200px;
+       border-radius: 10px;
+       max-width: 300px;
+       width: 90%; 
        
     
 }
