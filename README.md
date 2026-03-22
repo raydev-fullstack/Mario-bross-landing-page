@@ -6,7 +6,7 @@ Landing page inspirada no universo do Mario Bros, desenvolvida para divulgar ser
 
 ## 🚀 Demonstração
 
-🔗 Em breve (adicione aqui o link do site quando publicar)
+🔗 Em breve ()
 
 ---
 
@@ -54,7 +54,7 @@ mario-bros-landing-page/
 
 ## 📸 Preview
 
-*(adicione aqui uma imagem do seu site depois)*
+![Preview do projeto](img/preview.mario.png)
 
 ---
 
